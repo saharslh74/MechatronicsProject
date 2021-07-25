@@ -1,5 +1,5 @@
 # MechatronicsProject
-this project is related to our mechatronics course.
+this project is related to my mechatronics course.
 my project is simulation of the puma robot .
 
 This robot is an industrial robot.
